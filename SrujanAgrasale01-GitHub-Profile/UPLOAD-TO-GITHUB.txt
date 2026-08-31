@@ -1,0 +1,17 @@
+UPLOAD INSTRUCTIONS
+
+This folder is the complete contents for:
+SrujanAgrasale01/SrujanAgrasale01
+
+IMPORTANT:
+- Upload the CONTENTS of this folder into the ROOT of your repository.
+- Do NOT upload the outer folder itself.
+- The hidden folder .github must be uploaded exactly as:
+    .github/workflows/update-profile-art.yml
+- README.md must be in the repository ROOT.
+- Keep scripts/ in the repository ROOT.
+
+After uploading and committing:
+1. Open Actions.
+2. "Update Profile Art" should appear.
+3. Run workflow once.
